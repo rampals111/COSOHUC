@@ -1,1 +1,1 @@
-# COSOHUC
+COSOHUC is a deterministic heuristic for K-means initialization. It sorts each numerical feature, divides values into K partitions, computes partition means, and combines them to generate initial centroids. It aims to provide fast, reproducible clustering.
