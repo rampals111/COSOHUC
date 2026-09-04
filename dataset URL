@@ -1,0 +1,7 @@
+Iris: https://archive.ics.uci.edu/dataset/53/iris
+USArrests: https://search.r-project.org/R/refmans/datasets/html/datasets-package.html
+User Knowledge Modeling: https://archive.ics.uci.edu/dataset/257/user%2Bknowledge%2Bmodeling
+Parkinson's: https://archive.ics.uci.edu/dataset/174/parkinsons%2Btelemonitoring
+Synthetic Control Chart Time Series: https://archive.ics.uci.edu/dataset/139/synthetic%2Bcontrol%2B
+Yeast: https://archive.ics.uci.edu/dataset/110/yeast
+Synthetic R data is also used, which is fine, but you can get it after running the code
