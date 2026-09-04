@@ -1,4 +1,5 @@
 All the code is written in the R language.
+All dataset CSV files are uploaded here, and its link is also given in datset fil
 A deterministic COSOHUC heuristic for K-means cluster initialization is compared with Farthest First, Canopy, K-Means++, Hartigan-Wong, MacQueen, Lloyd, Forgy, ECKM, and Mini-Batch K-Means++ using benchmark, feature-correlation, scalability, and result-analysis experiments.
 1. COSOHUC_Correlation_Sensitivity. R.R.: This file contains running code for COSOHUC_Correlation_Sensitivity. 2. The COSOHUC_SCALABILITY.R.R file contains running code for scalability; this code takes around 10 hours. 3. The "N_RUN_10_METHODS_ANY_K_.R.R" file contains COSOHUC and 9 methods' running code; you just have to change the file path.
 Result-Analysis Procedures
